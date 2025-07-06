@@ -1,0 +1,1 @@
+// React frontend logic will be placed here
